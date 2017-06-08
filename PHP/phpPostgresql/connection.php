@@ -13,21 +13,30 @@ class Connection
             throw new \Exception("error: reading database.ini");
         }
 
-        //$connStr = sprintf("pgsql:host=%s;port=%d;dbname=%s;user=%s;password=%s",
-        //$pdo = new \PDO($connStr);
-        //$pdo->setAttribute(\PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
-        $connStr = sprintf("host=%s port=%d dbname=%s user=%s password=%s",
-        $params['host'],
-        $params['port'],
-        $params['database'],
-        $params['user'],
-        $params['password']);
+        //connect postgresql with pg_connect()
+        // $connStr = sprintf("host=%s port=%d dbname=%s user=%s password=%s",
+        // $params['host'],
+        // $params['port'],
+        // $params['database'],
+        // $params['user'],
+        // $params['password']);
+        // $pgc = pg_connect($connStr);
+        // if (!$pgc) :
+        //     throw new Exception("error: connect database ".error_get_last($pgc));
+        // endif;
+        // return $pgc;
 
-        $pgc = pg_connect($connStr);
-        if (!$pgc) :
-            throw new Exception("error: connect database ".error_get_last($pgc));
-        endif;
-        return $pgc;
+        //connect with PDO
+        $connStr = sprintf("pgsql:host=%s;port=%d;dbname=%s;user=%s;password=%s",
+            $params['host'],
+            $params['port'],
+            $params['database'],
+            $params['user'],
+            $params['password']);
+        $pdo = new \PDO($connStr);
+        $pdo->setAttribute(\PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+        
+        return $pdo;
     }
 
     //return instance of connection obj

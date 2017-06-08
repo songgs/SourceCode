@@ -1,10 +1,17 @@
 <?php
 require_once("connection.php");
+require_once("PgSQLOperate.php");
 
 try {
     $conn = Connection::get()->connect();
-    $result = pg_query($conn, "select * from book");
-    $books = pg_fetch_all($result) ;
+    $pgoperate = new PgSQLOperate($conn);
+    $books = $pgoperate->getbooks();
+
+    //pg_connect
+    // $books = [];
+    // query data by pg_query() 
+    // $result = pg_query($conn, "select * from book");
+    // $books = pg_fetch_all($result) ;
 } catch (Exception $e) {
     var_dump($e);
 }
