@@ -1,0 +1,3 @@
+D:\Git\SourceCode\C#\WinForm\Lab\_Output\Debug\testLicensesClear.exe.config
+D:\Git\SourceCode\C#\WinForm\Lab\LicensesClear\obj\Debug\testLicensesClear.exe
+D:\Git\SourceCode\C#\WinForm\Lab\LicensesClear\obj\Debug\testLicensesClear.pdb

@@ -1,0 +1,10 @@
+D:\Git\SourceCode\C#\WinForm\Lab\Temp\bin\Release\test.exe.config
+D:\Git\SourceCode\C#\WinForm\Lab\Temp\bin\Release\test.exe
+D:\Git\SourceCode\C#\WinForm\Lab\Temp\bin\Release\test.pdb
+D:\Git\SourceCode\C#\WinForm\Lab\Temp\obj\x86\Release\Temp.csprojResolveAssemblyReference.cache
+D:\Git\SourceCode\C#\WinForm\Lab\Temp\obj\x86\Release\Temp.Form1.resources
+D:\Git\SourceCode\C#\WinForm\Lab\Temp\obj\x86\Release\Temp.Form2.resources
+D:\Git\SourceCode\C#\WinForm\Lab\Temp\obj\x86\Release\test.Properties.Resources.resources
+D:\Git\SourceCode\C#\WinForm\Lab\Temp\obj\x86\Release\Temp.csproj.GenerateResource.Cache
+D:\Git\SourceCode\C#\WinForm\Lab\Temp\obj\x86\Release\test.exe
+D:\Git\SourceCode\C#\WinForm\Lab\Temp\obj\x86\Release\test.pdb

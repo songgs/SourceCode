@@ -1,0 +1,6 @@
+D:\Git\SourceCode\C#\ConsoleApps\ConsoleApp\bin\Release\ConsoleApp.exe.config
+D:\Git\SourceCode\C#\ConsoleApps\Output\Release\ConsoleApp.exe.config
+D:\Git\SourceCode\C#\ConsoleApps\Output\Release\ConsoleApp.exe
+D:\Git\SourceCode\C#\ConsoleApps\Output\Release\ConsoleApp.pdb
+D:\Git\SourceCode\C#\ConsoleApps\ConsoleApp\obj\Release\ConsoleApp.exe
+D:\Git\SourceCode\C#\ConsoleApps\ConsoleApp\obj\Release\ConsoleApp.pdb
