@@ -6,3 +6,11 @@ D:\Git\PersonalLab\Finder\obj\Debug\Finder.FrmBatch.resources
 D:\Git\PersonalLab\Finder\obj\Debug\Finder.FrmConfig.resources
 D:\Git\PersonalLab\Finder\obj\Debug\Finder.FrmMain.resources
 D:\Git\PersonalLab\Finder\obj\Debug\Finder.csproj.GenerateResource.Cache
+D:\Git\SourceCode\C#\WinForm\Lab\Finder\obj\Debug\Finder.csprojResolveAssemblyReference.cache
+D:\Git\SourceCode\C#\WinForm\Lab\Finder\obj\Debug\Finder.Properties.Resources.resources
+D:\Git\SourceCode\C#\WinForm\Lab\Finder\obj\Debug\Finder.Translators.FrmTranslatorEdit.resources
+D:\Git\SourceCode\C#\WinForm\Lab\Finder\obj\Debug\Finder.Translators.FrmTranslatorFolderEdit.resources
+D:\Git\SourceCode\C#\WinForm\Lab\Finder\obj\Debug\Finder.FrmBatch.resources
+D:\Git\SourceCode\C#\WinForm\Lab\Finder\obj\Debug\Finder.FrmConfig.resources
+D:\Git\SourceCode\C#\WinForm\Lab\Finder\obj\Debug\Finder.FrmMain.resources
+D:\Git\SourceCode\C#\WinForm\Lab\Finder\obj\Debug\Finder.csproj.GenerateResource.Cache

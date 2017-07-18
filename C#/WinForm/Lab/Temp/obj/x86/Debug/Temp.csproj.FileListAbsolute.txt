@@ -13,7 +13,6 @@ D:\Git\SourceCode\C#\WinForm\Lab\Temp\obj\x86\Debug\test.exe
 D:\Git\SourceCode\C#\WinForm\Lab\Temp\obj\x86\Debug\test.pdb
 D:\Git\SourceCode\C#\WinForm\Lab\Temp\bin\Debug\test.exe
 D:\Git\SourceCode\C#\WinForm\Lab\Temp\bin\Debug\test.pdb
-D:\Git\SourceCode\C#\WinForm\Lab\Temp\obj\x86\Debug\Temp.csprojResolveAssemblyReference.cache
 D:\Git\SourceCode\C#\WinForm\Lab\Temp\obj\x86\Debug\test.Properties.Resources.resources
 D:\Git\SourceCode\C#\WinForm\Lab\Temp\obj\x86\Debug\Temp.csproj.GenerateResource.Cache
 D:\Git\SourceCode\C#\WinForm\Lab\Temp\obj\x86\Debug\Temp.Form2.resources

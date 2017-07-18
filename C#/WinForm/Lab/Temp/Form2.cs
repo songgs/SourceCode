@@ -15,6 +15,13 @@ namespace Temp
         {
             InitializeComponent();
             Init();
+            ClassTest test = new ClassTest();
+            test.test();
+            //object[] oary = test.showEnum();
+            foreach(int i in test.showEnum())
+                Console.WriteLine();
+
+            Console.WriteLine( test.showNum());
         }
 
         private void Init()

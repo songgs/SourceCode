@@ -1,3 +1,11 @@
-D:\Git\SourceCode\C#\WinForm\Lab\_Output\Debug\testLicensesClear.exe.config
-D:\Git\SourceCode\C#\WinForm\Lab\LicensesClear\obj\Debug\testLicensesClear.exe
-D:\Git\SourceCode\C#\WinForm\Lab\LicensesClear\obj\Debug\testLicensesClear.pdb
+D:\Git\SourceCode\C#\WinForm\Lab\_Output\Debug\LicensesClear.exe.config
+D:\Git\SourceCode\C#\WinForm\Lab\_Output\Debug\LicensesClear.exe.manifest
+D:\Git\SourceCode\C#\WinForm\Lab\_Output\Debug\LicensesClear.application
+D:\Git\SourceCode\C#\WinForm\Lab\_Output\Debug\LicensesClear.exe
+D:\Git\SourceCode\C#\WinForm\Lab\_Output\Debug\LicensesClear.pdb
+D:\Git\SourceCode\C#\WinForm\Lab\LicensesClear\obj\Debug\LicensesClear.TrustInfo.xml
+D:\Git\SourceCode\C#\WinForm\Lab\LicensesClear\obj\Debug\LicensesClear.exe.manifest
+D:\Git\SourceCode\C#\WinForm\Lab\LicensesClear\obj\Debug\LicensesClear.application
+D:\Git\SourceCode\C#\WinForm\Lab\LicensesClear\obj\Debug\LicensesClear.exe
+D:\Git\SourceCode\C#\WinForm\Lab\LicensesClear\obj\Debug\LicensesClear.pdb
+D:\Git\SourceCode\C#\WinForm\Lab\LicensesClear\obj\Debug\LicensesClear.csprojResolveAssemblyReference.cache

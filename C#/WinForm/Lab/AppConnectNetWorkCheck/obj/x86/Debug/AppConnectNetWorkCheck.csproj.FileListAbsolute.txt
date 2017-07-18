@@ -4,3 +4,8 @@ D:\Git\PersonalLab\AppConnectNetWorkCheck\obj\x86\Debug\AppConnectNetWorkCheck.P
 D:\Git\PersonalLab\AppConnectNetWorkCheck\obj\x86\Debug\AppConnectNetWorkCheck.csproj.GenerateResource.Cache
 D:\Git\PersonalLab\AppConnectNetWorkCheck\obj\x86\Debug\AppConnectNetWorkCheck.exe.licenses
 D:\Git\SourceCode\C#\WinForm\Lab\AppConnectNetWorkCheck\bin\Debug\AppConnectNetWorkCheck.exe.config
+D:\Git\SourceCode\C#\WinForm\Lab\AppConnectNetWorkCheck\obj\x86\Debug\AppConnectNetWorkCheck.csprojResolveAssemblyReference.cache
+D:\Git\SourceCode\C#\WinForm\Lab\AppConnectNetWorkCheck\obj\x86\Debug\AppConnectNetWorkCheck.Form1.resources
+D:\Git\SourceCode\C#\WinForm\Lab\AppConnectNetWorkCheck\obj\x86\Debug\AppConnectNetWorkCheck.Properties.Resources.resources
+D:\Git\SourceCode\C#\WinForm\Lab\AppConnectNetWorkCheck\obj\x86\Debug\AppConnectNetWorkCheck.csproj.GenerateResource.Cache
+D:\Git\SourceCode\C#\WinForm\Lab\AppConnectNetWorkCheck\obj\x86\Debug\AppConnectNetWorkCheck.exe.licenses
