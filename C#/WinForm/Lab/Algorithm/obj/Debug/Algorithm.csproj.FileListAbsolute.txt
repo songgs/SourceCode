@@ -1,0 +1,8 @@
+D:\Git\SourceCode\C#\WinForm\Lab\Algorithm\bin\Debug\Algorithm.exe.config
+D:\Git\SourceCode\C#\WinForm\Lab\Algorithm\bin\Debug\Algorithm.exe
+D:\Git\SourceCode\C#\WinForm\Lab\Algorithm\bin\Debug\Algorithm.pdb
+D:\Git\SourceCode\C#\WinForm\Lab\Algorithm\obj\Debug\Algorithm.Form1.resources
+D:\Git\SourceCode\C#\WinForm\Lab\Algorithm\obj\Debug\Algorithm.Properties.Resources.resources
+D:\Git\SourceCode\C#\WinForm\Lab\Algorithm\obj\Debug\Algorithm.csproj.GenerateResource.Cache
+D:\Git\SourceCode\C#\WinForm\Lab\Algorithm\obj\Debug\Algorithm.exe
+D:\Git\SourceCode\C#\WinForm\Lab\Algorithm\obj\Debug\Algorithm.pdb
