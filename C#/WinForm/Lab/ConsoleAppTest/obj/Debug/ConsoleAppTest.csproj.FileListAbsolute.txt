@@ -9,4 +9,3 @@ D:\Git\SourceCode\C#\WinForm\Lab\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe
 D:\Git\SourceCode\C#\WinForm\Lab\ConsoleAppTest\bin\Debug\ConsoleAppTest.pdb
 D:\Git\SourceCode\C#\WinForm\Lab\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
 D:\Git\SourceCode\C#\WinForm\Lab\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb
-D:\Git\SourceCode\C#\WinForm\Lab\ConsoleAppTest\obj\Debug\ConsoleAppTest.csprojResolveAssemblyReference.cache

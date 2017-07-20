@@ -8,4 +8,3 @@ D:\Git\SourceCode\C#\WinForm\Lab\LicensesClear\obj\Debug\LicensesClear.exe.manif
 D:\Git\SourceCode\C#\WinForm\Lab\LicensesClear\obj\Debug\LicensesClear.application
 D:\Git\SourceCode\C#\WinForm\Lab\LicensesClear\obj\Debug\LicensesClear.exe
 D:\Git\SourceCode\C#\WinForm\Lab\LicensesClear\obj\Debug\LicensesClear.pdb
-D:\Git\SourceCode\C#\WinForm\Lab\LicensesClear\obj\Debug\LicensesClear.csprojResolveAssemblyReference.cache
