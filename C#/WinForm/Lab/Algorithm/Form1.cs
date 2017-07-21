@@ -20,18 +20,50 @@ namespace Algorithm
 
         private void Init()
         {
-            //字符串取数
             List<int> liOut;
-            this.button1.Click += delegate
+            //数组移位
+            this.btnShift.Click += delegate
+            {
+                int[] aryInput = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+                int intShift = int.Parse(txtOffset.Text.ToString());
+                liOut = ArrayShift(aryInput, intShift > 0 ? true : false, Math.Abs(intShift));
+                if (liOut != null)
+                    txtShiftOut.Text = GetStringFromList(liOut);
+            };
+
+
+            //字符串取数 
+            this.btnGetNum.Click += delegate
             {
                 string str = this.txtInput.Text.ToString();
-                liOut = GetIntArrayFromString("12fds3g45,wg.r653");
+                liOut = GetIntArrayFromString(str);
 
                 if (liOut != null)
                     txtOutput.Text = GetStringFromList(liOut);
             };
+
+            //testPointer();
         }
 
+        //数组移位
+        private List<int> ArrayShift(int[] aryInput, bool? isPt, int intShift)
+        {
+            int[] aryOut = new int[9];
+            if (aryInput == null || isPt == null || intShift > aryInput.Length)
+                return aryOut.ToList();  
+
+            if (isPt??true)
+                for (int i = 0; i < aryOut.Length - intShift; i++)
+                    aryOut[intShift + i] = aryInput[i];
+            else//反向取数
+                for (int i = 0; i < aryOut.Length - intShift; i++)
+                    aryOut[aryOut.Length - intShift - i - 1] = aryInput[aryOut.Length - i - 1];
+
+
+            return aryOut.ToList();
+        }
+
+        //队列拼串
         private string GetStringFromList(List<int> liOut)
         {
             string strOut = string.Empty;
@@ -44,7 +76,7 @@ namespace Algorithm
             return strOut.Length > 1 ? strOut.TrimEnd(',') : strOut;
         }
 
-        //
+        //字符串中取数字
         private List<int> GetIntArrayFromString(string strSource)
         {
             if (strSource == null || strSource.Length <= 0)
@@ -71,6 +103,13 @@ namespace Algorithm
             }
             //list.ToArray();
             return list;
+        }
+
+
+        private unsafe void testPointer()
+        {
+            int i = 10;
+            int* ptr = &i;
         }
     }
 }
